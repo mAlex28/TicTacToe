@@ -28,13 +28,6 @@
             <version>8.0.20</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.teknikindustries.bulksms.SMS</groupId>
-            <artifactId>Bulk_SMS_Library</artifactId>
-            <scope>system</scope>
-            <version>1.0</version>
-            <systemPath>${project.basedir}/libs/Bulk_SMS_Library.jar</systemPath>
-        </dependency>
            
     </dependencies>
 
